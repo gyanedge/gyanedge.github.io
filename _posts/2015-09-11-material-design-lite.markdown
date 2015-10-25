@@ -1,32 +1,12 @@
 ---
 layout: post
-title:  "Material Design Lite"
-date:   2015-09-11 13:34:20
-categories: Material
-author: Byron Corrales
+title:  "Team"
+date:   2015-10-25
+categories: gyanedge
+author: Gyanedge
 ---
-But it's not who you are underneath... it's what you do that defines you. Death does not wait for you to be ready! Death is not considerate of fair! And make no mistake, here you face death. Tiger. Jujitsu. Panther. You're skilled. But this is not a dance. And you are afraid.
+Gaurav Kumar
+Gaurav Kumar is Electronics and Communications graduate from MS Ramaiah Institute of Technology and have worked as an Automation Engineer with Schneider Electric in the past. During summer 2012, he decided to take a leap in his career by becoming a first generation entrepreneur in pursuit of his passion. He set up this institute as an initiative to meet the educational needs of students from varied backgrounds seeking a different career. He believes in a student centric approach and prepares them from a nascent stage. As the Founder and Director of Gyan Edge, he manages the general operation and functioning of the institute.
 
-Theatricality and deception, powerful agents to the uninitiated. But we are initiated aren't we, Bruce? Members of the League of Shadows. And you betrayed us.
-
-It means you're hatred, and it also means losing someone, who I've cared for since I first heard his cries echoing through this house. But it might also mean saving your life. And that is more important.
-
-I seek the means to fight injustice. To turn fear against those who prey on the fearful.
-
-You know how to fight six men. We can teach you how to engage 600.
-
-Well, you see... I'm buying this hotel and setting some new rules about the pool area.
-
-Pretty soon we will be chasing down over due library books.
-
-Or perhaps he's wondering why someone would shoot a man before throwing him out of the plane.
-
-My name is Merely Ducard but I speak for Ra's al Ghul... a man greatly feared by the criminal underworld. A mon who can offer you a path. Someone like you is only here by choice. You have been exploring the criminal fraternity but whatever your original intentions you have to become truly lost. The path of a man who shares his hatred of evil and wishes to serve true justice. The path of the League of Shadows.
-
-Okay. Now... Hardened Kevlar plates over titanium-dipped, tri-weave fibers for flexibility. You'll be lighter, faster, more agile.
-
-If you're good at something, never do it for free.
-
-It's not just your name, sir. It's your father's name. And it's all that's left of him. Don't destroy it.
-
-Your Punishment Must Be More Severe.
+Hardik Gandhi
+Hardik Gandhi is an Electrical and Electronics engineer from MS Ramaiah Institute of Technology. He was working as a Business Analyst in Accenture until recently when he decided to join the institute as an Associate Director. It was his attachment towards teaching that made him shift his career and now he is mostly seen managing the core activities of Gyan Edge. His methodology is highly knowledge oriented and is effective not only in teaching the basics but understanding every aspect of the subject in detail. He is also a career counselor in the institute and guides students in deciding about their career prospects. He manages the overall business operations.
