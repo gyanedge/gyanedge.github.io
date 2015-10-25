@@ -4,7 +4,7 @@ title:  "Introduction"
 date:   2015-10-25
 categories: gyanedge
 author: Gaurav
-image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
+image: img/12696_610261449046830_933395820_n.png
 ---
 In recent times, education is perceived as an uninteresting domain by the actual beneficiaries. The monotony persists and students today are engrossing more into the process of achieving marks rather than learning something concrete. Though it may seem significant to attain higher scores momentarily, it proves to be purposeless in future. A situation so alarming that one might contemplate – Is there any center out there which can make the learning exercise fascinating?
 
