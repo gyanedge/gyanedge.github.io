@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introduction"
+highlight: true
 date:   2015-10-25
 categories: gyanedge
 author: Gyanedge
